@@ -3,11 +3,11 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-chauhan-461504222) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gFqP9rN4) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-chauhan-461504222) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gFqP9rN4).]
 
 # 🦾 Leetcode:
 <p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/gouravsinghc2003?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/divyanshu_263?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/divyanshu_263/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100" width="100" /></a>
